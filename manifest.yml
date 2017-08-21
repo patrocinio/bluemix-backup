@@ -1,0 +1,6 @@
+---
+applications:
+- name: backup
+  host: backup
+  memory: 1024M
+  instances: 2

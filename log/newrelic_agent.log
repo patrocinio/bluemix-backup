@@ -1,0 +1,51 @@
+# Logfile created on 2017-03-09 18:02:06 -0500 by logger.rb/47272
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : Starting the New Relic agent in "development" environment.
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : Reading configuration from config/newrelic.yml (/Users/edu/github/backup-docs)
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : Environment: development
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : No known dispatcher detected.
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : Application: My Application (Development)
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : Installing Net instrumentation
+[2017-03-09 18:02:06 -0500 Eduardos-MBP (12187)] INFO : Finished instrumentation
+[2017-03-09 18:02:07 -0500 Eduardos-MBP (12187)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1577165/applications/38115687
+[2017-03-09 18:02:14 -0500 Eduardos-MBP (12187)] INFO : Starting Agent shutdown
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : Starting the New Relic agent in "development" environment.
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : Reading configuration from config/newrelic.yml (/Users/edu/github/backup-docs)
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : Environment: development
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : No known dispatcher detected.
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : Application: My Application (Development)
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : Installing Net instrumentation
+[2017-03-09 18:02:20 -0500 Eduardos-MBP (12254)] INFO : Finished instrumentation
+[2017-03-09 18:02:22 -0500 Eduardos-MBP (12254)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1577165/applications/38115687
+[2017-03-09 18:02:48 -0500 Eduardos-MBP (12254)] INFO : Starting Agent shutdown
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Starting the New Relic agent in "development" environment.
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Reading configuration from config/newrelic.yml (/Users/edu/github/bluemix-backup)
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Environment: development
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : No known dispatcher detected.
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Application: My Application (Development)
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Installing Net instrumentation
+[2017-08-21 08:19:22 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Finished instrumentation
+[2017-08-21 08:19:31 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1577165/applications/38115687
+[2017-08-21 08:19:32 -0300 Eduardos-MacBook-Pro.local (35745)] INFO : Starting Agent shutdown
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Starting the New Relic agent in "development" environment.
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Reading configuration from config/newrelic.yml (/Users/edu/github/bluemix-backup)
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Environment: development
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : No known dispatcher detected.
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Application: My Application (Development)
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Installing Net instrumentation
+[2017-08-21 08:21:26 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Finished instrumentation
+[2017-08-21 08:21:29 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1577165/applications/38115687
+[2017-08-21 08:21:34 -0300 Eduardos-MacBook-Pro.local (35811)] INFO : Starting Agent shutdown
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Starting the New Relic agent in "development" environment.
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Reading configuration from config/newrelic.yml (/Users/edu/github/bluemix-backup)
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Environment: development
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : No known dispatcher detected.
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Application: My Application (Development)
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Installing Net instrumentation
+[2017-08-21 08:21:38 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Finished instrumentation
+[2017-08-21 08:21:41 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1577165/applications/38115687
+[2017-08-21 08:22:02 -0300 Eduardos-MacBook-Pro.local (35868)] INFO : Starting Agent shutdown
